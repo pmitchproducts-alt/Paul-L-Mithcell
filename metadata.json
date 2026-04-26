@@ -1,0 +1,8 @@
+{
+  "name": "ReviewMaster",
+  "description": "A smart review submission interface featuring AI-assisted writing and interactive rating components.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
