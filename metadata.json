@@ -1,8 +1,10 @@
 {
-  "name": "ReviewMaster",
-  "description": "A smart review submission interface featuring AI-assisted writing and interactive rating components.",
+  "name": "SmartBag",
+  "description": "Premium grocery delivery app featuring smart tracking, interactive product catalogs, and AI-powered recommendations.",
   "requestFramePermissions": [
     "camera"
   ],
-  "majorCapabilities": []
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
